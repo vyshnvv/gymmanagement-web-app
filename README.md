@@ -21,7 +21,6 @@ This platform allows users to manage subscriptions, book training sessions, shop
 - [React.js](https://reactjs.org/) — UI library
 - [React Router](https://reactrouter.com/) — Client-side routing
 - [Axios](https://axios-http.com/) — HTTP requests
-- [Redux Toolkit](https://redux-toolkit.js.org/) (optional if used) — State management
 
 ### Backend
 - [Node.js](https://nodejs.org/) — JavaScript runtime
@@ -39,8 +38,8 @@ This platform allows users to manage subscriptions, book training sessions, shop
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vyshnvv/tictactoe-web-app
-cd tictactoe-web-app
+git clone https://github.com/vyshnvv/gymmanagement-web-app
+cd gymmanagement-web-app
 ```
 ### 2. Install Dependencies
 
