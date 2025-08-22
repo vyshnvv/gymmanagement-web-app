@@ -1,36 +1,36 @@
-# 🕹️ Real-Time TicTacToe Web App
+# 🏋️‍♂️ GymFlow - Gym Management Web App
 
-A real-time, multiplayer TicTacToe game built using the **MERN stack** and **Socket.IO**. Users can register, log in, challenge other users in real-time, and track their gameplay statistics like win rate and total games played.
+A full-stack **MERN** application designed for gyms and fitness centers.  
+This platform allows users to manage subscriptions, book training sessions, shop for supplements, and view class schedules — all in one place.
 
 ---
 
 ## 🚀 Features
 
-- ✅ **User Authentication** – Sign up and log in with secure JWT tokens
-- 👥 **Challenge Other Users** – See online users and initiate games
-- 🔄 **Real-Time Gameplay** – Instant interaction via Socket.IO
-- 📊 **Gameplay Stats** – Tracks games played, wins, and calculates win rate
-- ☁️ **MongoDB Atlas** – Cloud-hosted database
+- 🔐 **User Authentication** – Secure login and registration
+- 💳 **Subscription Management** – Subscribe or renew monthly gym membership
+- 🏋️ **Personal Training & Nutritionist Booking** – Schedule 1-on-1 sessions
+- 🛒 **Supplement Shop** – Browse and order fitness supplements
+- 📅 **Group Class Schedule** – View upcoming group classes
 
 ---
 
 ## 🧰 Technologies Used
 
 ### Frontend
-- [React.js](https://reactjs.org/)
-- [Socket.IO Client](https://socket.io/docs/v4/client-api/)
-- [Axios](https://axios-http.com/)
-- [React Router](https://reactrouter.com/)
+- [React.js](https://reactjs.org/) — UI library
+- [React Router](https://reactrouter.com/) — Client-side routing
+- [Axios](https://axios-http.com/) — HTTP requests
+- [Redux Toolkit](https://redux-toolkit.js.org/) (optional if used) — State management
 
 ### Backend
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [Socket.IO](https://socket.io/)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- [Mongoose](https://mongoosejs.com/)
-- [JWT](https://jwt.io/)
-- [bcrypt](https://www.npmjs.com/package/bcrypt)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Node.js](https://nodejs.org/) — JavaScript runtime
+- [Express.js](https://expressjs.com/) — Web framework
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — Cloud database
+- [Mongoose](https://mongoosejs.com/) — MongoDB ODM
+- [JWT](https://jwt.io/) — Authentication tokens
+- [bcrypt](https://www.npmjs.com/package/bcrypt) — Password hashing
+- [dotenv](https://www.npmjs.com/package/dotenv) — Environment management
 
 ---
 
@@ -86,10 +86,3 @@ Frontend (React)
 cd client
 npm run dev
 ```
-
-
-## 🌐 Live Demo
-
-[https://tictactoe-f147.onrender.com](https://tictactoe-ptmq.onrender.com)
-
-
