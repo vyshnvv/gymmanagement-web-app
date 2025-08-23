@@ -4,6 +4,7 @@ A full-stack **MERN** application designed for gyms and fitness centers.
 This platform allows users to manage memberships, book training sessions, shop for supplements, and view schedules — while administrators can manage members, trainers, and operations via a dedicated dashboard.
 
 ---
+![License](https://img.shields.io/github/license/vyshnvv/tictactoe-web-app)
 
 ## 🚀 Features
 
