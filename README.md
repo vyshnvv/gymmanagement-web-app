@@ -102,3 +102,6 @@ Frontend (React)
 cd client
 npm run dev
 ```
+
+## 🌐 Live Demo
+[Check It Out](https://gymmanagement-web-app.onrender.com)
